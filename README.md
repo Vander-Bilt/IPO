@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # IPO
 =======
 # IPO: Iterative Preference Optimization for Text-to-Video Generation
