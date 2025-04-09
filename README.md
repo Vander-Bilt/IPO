@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg"  height=100>
+  <img src="assets/logo.png"  height=100>
 </p>
 
 # IPO: Iterative Preference Optimization for Text-to-Video Generation
@@ -68,7 +68,7 @@ This repo contains IPO pre-trained weights, training/sampling code, for our pape
 We propose to align video foundation models with human preferences from the perspective of post-training in this paper. Consequently, we introduce an Iterative Preference Optimization strategy to enhance generated video quality by incorporating human feedback. Specifically, IPO exploits a critic model to justify video generations for pairwise ranking as in Direct Preference Optimization or point-wise scoring as in Kahneman-Tversky Optimization. Given this, IPO optimizes video foundation models with guidance of signals from preference feedback, which helps improve generated video quality in subject consistency, motion smoothness and aesthetic quality, etc. In addition, IPO incorporates the critic model with the multi-modality large language model, which enables it to automatically assign preference labels without need of retraining or relabeling. In this way, IPO can efficiently perform multi-round preference optimization in an iterative manner, without the need of tediously manual labeling. Comprehensive experiments demonstrate that the proposed IPO can effectively improve the video generation quality of a pretrained model and help a model with only 2B parameters surpass the one with 5B parameters. Besides, IPO achieves new state-of-the-art performance on VBench benchmark.
 
 <p align="center">
-  <img width="80%" src="assets/arch.jpg">
+  <img width="80%" src="assets/arch.png">
 </p>
 
 
