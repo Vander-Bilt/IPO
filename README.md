@@ -16,13 +16,13 @@ This repo contains IPO pre-trained weights, training/sampling code, for our pape
 
 **## Table of Contents**
 
-1. Video demos
+1. Comparison of video demos
 2. [Model Usage](#4-model-usage)
 3. [Citation](#7-citation)
 
-## Video demo
+## Comparison of video demos
 
-### IPO-2B
+
 <table border="0" style="width: 100%; text-align: center; margin-top: 1px;">
 
   <!-- 第一行标题 -->
