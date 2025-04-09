@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png"  height=100>
+  <img src="![Image](https://github.com/user-attachments/assets/05771732-46ce-4d4a-86c0-8f4ed14a34dd)"  height=100>
 </p>
 
 # IPO: Iterative Preference Optimization for Text-to-Video Generation
