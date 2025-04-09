@@ -63,7 +63,6 @@ This repo contains IPO pre-trained weights, training/sampling code, for our pape
 
 </table>
 
-    ![image](https://github.com/user-attachments/assets/1cfc87d3-c42f-4a8b-9411-074dbfd31a9f)
 
 
 
