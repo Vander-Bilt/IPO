@@ -25,11 +25,25 @@ This repo contains IPO pre-trained weights, training/sampling code, for our pape
 ### IPO-2B
 <table border="0" style="width: 100%; text-align: center; margin-top: 1px;">
   <tr>
-    <td><video src="https://github.com/user-attachments/assets/d7d6e991-5fd4-40ce-8c16-ab052ec1a809" width="100%" controls autoplay loop muted></video></td>
-    <td><video src="https://github.com/user-attachments/assets/02bdafcd-dd8b-42cc-ae4d-3281a413009c" width="100%" controls autoplay loop muted></video></td>
-    <td><video src="https://github.com/user-attachments/assets/02bdafcd-dd8b-42cc-ae4d-3281a413009c" width="100%" controls autoplay loop muted></video></td>
+    <td style="padding: 5px;">
+      <video width="100%" autoplay loop muted playsinline>
+        <source src="https://github.com/user-attachments/assets/d7d6e991-5fd4-40ce-8c16-ab052ec1a809" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td style="padding: 5px;">
+      <video width="100%" autoplay loop muted playsinline>
+        <source src="https://github.com/user-attachments/assets/02bdafcd-dd8b-42cc-ae4d-3281a413009c" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td style="padding: 5px;">
+      <video width="100%" autoplay loop muted playsinline>
+        <source src="https://github.com/user-attachments/assets/02bdafcd-dd8b-42cc-ae4d-3281a413009c" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
   </tr>
-
 </table>
     
 
