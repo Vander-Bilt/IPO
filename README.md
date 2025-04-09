@@ -25,9 +25,9 @@ This repo contains IPO pre-trained weights, training/sampling code, for our pape
 ### IPO-2B
 <table border="0" style="width: 100%; text-align: center; margin-top: 1px;">
   <tr>
-    <td><video src="[https://github.com/user-attachments/assets/9274b351-595d-41fb-aba3-f58e6e91603a](https://github.com/user-attachments/assets/d7d6e991-5fd4-40ce-8c16-ab052ec1a809)" width="100%" controls autoplay loop muted></video></td>
-    <td><video src="[https://github.com/user-attachments/assets/2f6b3ad5-e93b-436b-98bc-4701182d8652](https://github.com/user-attachments/assets/02bdafcd-dd8b-42cc-ae4d-3281a413009c)" width="100%" controls autoplay loop muted></video></td>
-    <td><video src="[https://github.com/user-attachments/assets/67d20ee7-ad78-4b8f-80f6-3fdb00fb52d8](https://github.com/user-attachments/assets/02bdafcd-dd8b-42cc-ae4d-3281a413009c)" width="100%" controls autoplay loop muted></video></td>
+    <td><video src="https://github.com/user-attachments/assets/d7d6e991-5fd4-40ce-8c16-ab052ec1a809" width="100%" controls autoplay loop muted></video></td>
+    <td><video src="https://github.com/user-attachments/assets/02bdafcd-dd8b-42cc-ae4d-3281a413009c" width="100%" controls autoplay loop muted></video></td>
+    <td><video src="https://github.com/user-attachments/assets/02bdafcd-dd8b-42cc-ae4d-3281a413009c" width="100%" controls autoplay loop muted></video></td>
   </tr>
     
 
