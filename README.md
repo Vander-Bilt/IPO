@@ -24,12 +24,10 @@ This repo contains IPO pre-trained weights, training/sampling code, for our pape
 
 ### IPO-2B
 <table border="0" style="width: 100%; text-align: center; margin-top: 1px;">
+
   <!-- 第一行标题 -->
   <tr>
-    <td><b>Title 1-1</b></td>
-    <td><b>Title 1-2</b></td>
-    <td><b>Title 1-3</b></td>
-    <td><b>Title 1-4</b></td>
+    <td colspan="4" style="text-align: left; font-weight: bold; padding: 10px 0;">模型 A 生成结果</td>
   </tr>
   <!-- 第一行视频 -->
   <tr>
@@ -41,10 +39,7 @@ This repo contains IPO pre-trained weights, training/sampling code, for our pape
 
   <!-- 第二行标题 -->
   <tr>
-    <td><b>Title 2-1</b></td>
-    <td><b>Title 2-2</b></td>
-    <td><b>Title 2-3</b></td>
-    <td><b>Title 2-4</b></td>
+    <td colspan="4" style="text-align: left; font-weight: bold; padding: 10px 0;">模型 B 生成结果</td>
   </tr>
   <!-- 第二行视频 -->
   <tr>
@@ -53,6 +48,7 @@ This repo contains IPO pre-trained weights, training/sampling code, for our pape
     <td><video src="https://github.com/user-attachments/assets/d6186fd0-8cf4-454d-a0e6-2c2a2a6c94a2" width="100%" controls autoplay loop muted></video></td>
     <td><video src="https://github.com/user-attachments/assets/ce7c6b2a-978c-4b97-a934-a65310443db6" width="100%" controls autoplay loop muted></video></td>
   </tr>
+
 </table>
 
 <table border="0" style="width: 100%; text-align: center; margin-top: 1px;">
