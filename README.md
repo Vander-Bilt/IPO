@@ -25,10 +25,16 @@ This repo contains IPO pre-trained weights, training/sampling code, for our pape
 ### IPO-2B
 <table border="0" style="width: 100%; text-align: center; margin-top: 1px;">
   <tr>
-    <td><video src="https://github.com/user-attachments/assets/cbdd3d0c-6220-4027-8591-69d055379d67" width="100%" controls autoplay loop muted></video></td>
-    <td><video src="https://github.com/user-attachments/assets/d07233c5-2c40-47bd-a7b6-902d149727b0" width="100%" controls autoplay loop muted></video></td>
-    <td><video src="https://github.com/user-attachments/assets/56dbbcf7-9a19-42bc-b3a8-6cfb6da4dd30" width="100%" controls autoplay loop muted></video></td>
-    <td><video src="https://github.com/user-attachments/assets/ce820e5a-5dff-4bc9-b689-fb43924a663c" width="100%" controls autoplay loop muted></video></td>
+    <td><video src="https://github.com/user-attachments/assets/8e2e313b-f1ff-4125-943d-fa7ed1c0f6e7" width="100%" controls autoplay loop muted></video></td>
+    <td><video src="https://github.com/user-attachments/assets/92cb6fad-122b-42da-be29-2f6b6d6dec6d" width="100%" controls autoplay loop muted></video></td>
+    <td><video src="https://github.com/user-attachments/assets/8eb52605-dd9f-4110-9171-7aec2354fc97" width="100%" controls autoplay loop muted></video></td>
+    <td><video src="https://github.com/user-attachments/assets/10f6d858-76fa-4c8c-8f43-03462ee8308e" width="100%" controls autoplay loop muted></video></td>
+  </tr>
+  <tr>
+    <td><video src="https://github.com/user-attachments/assets/4261861a-e43f-4df4-b0fb-3d6245dcafe9" width="100%" controls autoplay loop muted></video></td>
+    <td><video src="https://github.com/user-attachments/assets/ed81d4ad-1f38-431e-9f1c-21df355e9acc" width="100%" controls autoplay loop muted></video></td>
+    <td><video src="https://github.com/user-attachments/assets/d6186fd0-8cf4-454d-a0e6-2c2a2a6c94a2" width="100%" controls autoplay loop muted></video></td>
+    <td><video src="https://github.com/user-attachments/assets/ce7c6b2a-978c-4b97-a934-a65310443db6" width="100%" controls autoplay loop muted></video></td>
   </tr>
 
 </table>
