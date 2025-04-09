@@ -28,6 +28,7 @@ This repo contains IPO pre-trained weights, training/sampling code, for our pape
     <td><video src="https://github.com/user-attachments/assets/cbdd3d0c-6220-4027-8591-69d055379d67" width="100%" controls autoplay loop muted></video></td>
     <td><video src="https://github.com/user-attachments/assets/d07233c5-2c40-47bd-a7b6-902d149727b0" width="100%" controls autoplay loop muted></video></td>
     <td><video src="https://github.com/user-attachments/assets/56dbbcf7-9a19-42bc-b3a8-6cfb6da4dd30" width="100%" controls autoplay loop muted></video></td>
+    <td><video src="https://github.com/user-attachments/assets/ce820e5a-5dff-4bc9-b689-fb43924a663c" width="100%" controls autoplay loop muted></video></td>
   </tr>
 
 </table>
