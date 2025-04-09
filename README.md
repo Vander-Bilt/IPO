@@ -1,6 +1,6 @@
-# IPO
-
-=======
+<p align="center">
+  <img src="assets/logo.jpg"  height=100>
+</p>
 
 # IPO: Iterative Preference Optimization for Text-to-Video Generation
 
@@ -17,11 +17,12 @@ This repo contains IPO pre-trained weights, training/sampling code, for our pape
 ## Table of Contents**
 
 1. Comparison of video demos
-2. [Model Usage](#4-model-usage)
-3. [Citation](#7-citation)
+2. Introduction
+3. [Model Usage](#4-model-usage)
+4. [Citation](#7-citation)
+5. Acknowledgements
 
 ## Comparison of video demos
-
 
 <table border="0" style="width: 100%; text-align: center; margin-top: 1px;">
 
@@ -63,8 +64,12 @@ This repo contains IPO pre-trained weights, training/sampling code, for our pape
 
 </table>
 
+## Introduction
+We propose to align video foundation models with human preferences from the perspective of post-training in this paper. Consequently, we introduce an Iterative Preference Optimization strategy to enhance generated video quality by incorporating human feedback. Specifically, IPO exploits a critic model to justify video generations for pairwise ranking as in Direct Preference Optimization or point-wise scoring as in Kahneman-Tversky Optimization. Given this, IPO optimizes video foundation models with guidance of signals from preference feedback, which helps improve generated video quality in subject consistency, motion smoothness and aesthetic quality, etc. In addition, IPO incorporates the critic model with the multi-modality large language model, which enables it to automatically assign preference labels without need of retraining or relabeling. In this way, IPO can efficiently perform multi-round preference optimization in an iterative manner, without the need of tediously manual labeling. Comprehensive experiments demonstrate that the proposed IPO can effectively improve the video generation quality of a pretrained model and help a model with only 2B parameters surpass the one with 5B parameters. Besides, IPO achieves new state-of-the-art performance on VBench benchmark.
 
-
+<p align="center">
+  <img width="80%" src="assets/arch.jpg">
+</p>
 
 
 ## Model Usage
@@ -75,10 +80,21 @@ This repo contains IPO pre-trained weights, training/sampling code, for our pape
 pip install -r requirements.txt
 python scripte/inference.py --prompts ""
 ```
+## 🔗 Citation
+
+If you find [IPO](https://arxiv.org/abs/2502.02088) useful for your research and applications, please cite using this BibTeX:
+```BibTeX
+@article{yang2025ipo,
+  title={Ipo: Iterative preference optimization for text-to-video generation},
+  author={Yang, Xiaomeng and Tan, Zhiyu and Li, Hao},
+  journal={arXiv preprint arXiv:2502.02088},
+  year={2025}
+}
+```
+
+**## Acknowledgements**
+
+We greatly appreciate the contribution of [CogvideoX](https://github.com/THUDM/CogVideo) to open source. Our IPO is based on theCogvideoX  model for post training, which is consistent in usage with CogvideoX.
 
 
-
-
-
-  
 
