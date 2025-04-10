@@ -14,12 +14,12 @@ This repo contains IPO pre-trained weights, training/sampling code, for our pape
 
 - (🔥 New) ```2025/2/26```💥: We open source our model after post-training using the IPO method on cogvideo-2B, **[IPOC-2B-v1.0](https://huggingface.co/Fudan-FUXI/IPOC-2B-v1.0)
 
-## Table of Contents**
+## Table of Contents
 
 1. Comparison of video demos
 2. Introduction
-3. [Model Usage](#4-model-usage)
-4. [Citation](#7-citation)
+3. Model Usage
+4. Citation
 5. Acknowledgements
 
 ## Comparison of video demos
