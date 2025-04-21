@@ -93,7 +93,7 @@ if __name__ == "__main__":
     parser.add_argument("--guidance_scale", type=float, default=6.0, help="The scale for classifier-free guidance")
     parser.add_argument("--num_videos_per_prompt", type=int, default=1, help="Number of videos to generate per prompt")
     parser.add_argument(
-        "--dtype", type=str, default="float16", help="The data type for computation (e.g., 'float16' or 'bfloat16')"
+        "--dtype", type=str, default="bfloat16", help="The data type for computation (e.g., 'float16' or 'bfloat16')"
     )
 
     args = parser.parse_args()
