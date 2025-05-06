@@ -103,7 +103,7 @@ If you find [IPO](https://arxiv.org/abs/2502.02088) useful for your research and
 
 ## Acknowledgements
 
-We greatly appreciate the contribution of [CogvideoX](https://github.com/THUDM/CogVideo) to open source. Our IPO is based on theCogvideoX  model for post training, which is consistent in usage with CogvideoX.
+We greatly appreciate the contribution of [CogvideoX](https://github.com/THUDM/CogVideo) to open source. Our IPO is based on the CogvideoX  model for post training, which is consistent in usage with CogvideoX.
 
 
 
