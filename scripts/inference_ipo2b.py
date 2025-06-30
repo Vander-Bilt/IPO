@@ -45,7 +45,12 @@ def generate_video(
     # function to use Multi GPUs.
 
     pipe = CogVideoXPipeline.from_pretrained(model_path, torch_dtype=dtype)
+    
     pipe = pipe.to("cuda")
+
+    pipe. enable_madel_cpu_offload()
+
+
     # 2. Set Scheduler.
     # Can be changed to `CogVideoXDPMScheduler` or `CogVideoXDDIMScheduler`.
     # We recommend using `CogVideoXDDIMScheduler` for CogVideoX-2B and `CogVideoXDPMScheduler` for CogVideoX-5B.
