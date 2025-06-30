@@ -48,7 +48,7 @@ def generate_video(
     
     pipe = pipe.to("cuda")
 
-    pipe. enable_madel_cpu_offload()
+    pipe. enable_model_cpu_offload()
 
 
     # 2. Set Scheduler.
